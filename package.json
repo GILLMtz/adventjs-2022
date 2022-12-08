@@ -1,0 +1,14 @@
+{
+  "name": "adventjs2022",
+  "version": "1.0.0",
+  "description": "Solución para los retos planteados en el adventjs-2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "GillMtz",
+  "license": "ISC"
+}
