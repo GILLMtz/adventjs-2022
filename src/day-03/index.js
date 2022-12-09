@@ -2,7 +2,7 @@
 reindeer_max_weight=2*reindeer_name_lenght */
 
 function distributeGifts(packOfGifts, reindeers) {
-    return Math.trunc(reindeers.join('').length * 2 / packOfGifts.join('').length);
+    return Math.floor(reindeers.join('').length * 2 / packOfGifts.join('').length);
 }
 
 const packOfGifts = ["book", "doll", "ball"]
