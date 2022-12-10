@@ -4,11 +4,14 @@
   "description": "Solución para los retos planteados en el adventjs-2022",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "javascript"
   ],
   "author": "GillMtz",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
