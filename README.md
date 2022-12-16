@@ -6,15 +6,31 @@ Solution proposal to the challenges posed in adventjs-2022
 
 
 
-| Day | Name                                                              | Rules                                              | Solution                           |
-| --- | ----------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------- |
-| 1   | Automating Christmas gift wrapping!                               | [rules](https://adventjs.dev/en/challenges/2022/1) | [code](./src/day-01/index.js)      | 
-| 2   | Nobody wants to do extra hours at work                            | [rules](https://adventjs.dev/en/challenges/2022/2) | [code](./src/day-02/index.js)      | 
-| 3   | How many packs of gifts can Santa carry?                          | [rules](https://adventjs.dev/en/challenges/2022/3) | [code](./src/day-03/index.js)      | 
-| 4   | Box inside a box and another...                                   | [rules](https://adventjs.dev/en/challenges/2022/4) | [code](./src/day-04/index.js)      | 
-| 5   | Optimizing Santa's trips                                          | [rules](https://adventjs.dev/en/challenges/2022/5) | [code](./src/day-05/index.js)      | 
-| 6   | Creating xmas decorations                                         | [rules](https://adventjs.dev/en/challenges/2022/6) | [code](./src/day-06/index.js)      | 
-| 7   | Doing gifts inventory                                             | [rules](https://adventjs.dev/en/challenges/2022/7) | [code](./src/day-07/index.js)      | 
-| 8   | We need a mechanic!                                               | [rules](https://adventjs.dev/en/challenges/2022/8) | [code](./src/day-08/index.js)      | 
-| 9   |  Crazy Xmas lights                                                | [rules](https://adventjs.dev/en/challenges/2022/9) | [code](./src/day-09/index.js)      | 
+| Day  | Name                                                              | Rules                                               | Solution                           |
+| ---- | ----------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------- |
+| 1    | Automating Christmas gift wrapping!                               | [rules](https://adventjs.dev/en/challenges/2022/1)  | [code](./src/day-01/index.js)      | 
+| 2    | Nobody wants to do extra hours at work                            | [rules](https://adventjs.dev/en/challenges/2022/2)  | [code](./src/day-02/index.js)      | 
+| 3    | How many packs of gifts can Santa carry?                          | [rules](https://adventjs.dev/en/challenges/2022/3)  | [code](./src/day-03/index.js)      | 
+| 4    | Box inside a box and another...                                   | [rules](https://adventjs.dev/en/challenges/2022/4)  | [code](./src/day-04/index.js)      | 
+| 5    | Optimizing Santa's trips                                          | [rules](https://adventjs.dev/en/challenges/2022/5)  | [code](./src/day-05/index.js)      | 
+| 6    | Creating xmas decorations                                         | [rules](https://adventjs.dev/en/challenges/2022/6)  | [code](./src/day-06/index.js)      | 
+| 7    | Doing gifts inventory                                             | [rules](https://adventjs.dev/en/challenges/2022/7)  | [code](./src/day-07/index.js)      | 
+| 8    | We need a mechanic!                                               | [rules](https://adventjs.dev/en/challenges/2022/8)  | [code](./src/day-08/index.js)      | 
+| 9    | Crazy Xmas lights                                                 | [rules](https://adventjs.dev/en/challenges/2022/9)  | [code](./src/day-09/index.js)      | 
+| 10   | The Santa Claus sleigh jump                                       | [rules](https://adventjs.dev/en/challenges/2022/10) | [code](./src/day-10/index.js)      | 
+| 11   | Santa Claus is Scrum Master                                       | [rules](https://adventjs.dev/en/challenges/2022/11) | [code](./src/day-11/index.js)      | 
+| 12   | Electric sleighs, wow!                                            | [rules](https://adventjs.dev/en/challenges/2022/12) | [code](./src/day-12/index.js)      | 
+| 13   | Backups for Santa Claus files                                     | [rules](https://adventjs.dev/en/challenges/2022/13) | [code](./src/day-13/index.js)      | 
+| 14   | The best path                                                     | [rules](https://adventjs.dev/en/challenges/2022/14) | [code](./src/day-14/index.js)      | 
+| 15   | Decorating the Christmas tree                                     | [rules](https://adventjs.dev/en/challenges/2022/15) | [code](./src/day-15/index.js)      | 
+| 16   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/16) | [code](./src/day-16/index.js)      | 
+| 17   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/17) | [code](./src/day-17/index.js)      | 
+| 18   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/18) | [code](./src/day-18/index.js)      | 
+| 19   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/19) | [code](./src/day-19/index.js)      | 
+| 20   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/20) | [code](./src/day-20/index.js)      | 
+| 21   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/21) | [code](./src/day-21/index.js)      | 
+| 22   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/22) | [code](./src/day-22/index.js)      |
+| 23   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/23) | [code](./src/day-23/index.js)      | 
+| 24   |  .................                                                | [rules](https://adventjs.dev/en/challenges/2022/24) | [code](./src/day-24/index.js)      | 
+
 
